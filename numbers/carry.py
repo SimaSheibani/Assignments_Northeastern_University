@@ -25,7 +25,6 @@ def sum():
     counter = 0
     list_1_string = toList(number_1)
     list_2_string = toList(number_2)
-    max_length = 0
     diff_length = len(list_1_string) - len(list_2_string)
 
     if(diff_length > 0):

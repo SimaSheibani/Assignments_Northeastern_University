@@ -1,4 +1,5 @@
 def main():
+    '''Adding two number'''
 
     firstN = input("Enter the first value:")
     secondN = input("Enter the second value:")
